@@ -1,0 +1,225 @@
+from,to,tissue
+natural killer cell,NK cell,blood
+"central memory CD4-positive, alpha-beta T cell",T cell,blood
+"effector memory CD8-positive, alpha-beta T cell",T cell,blood
+classical monocyte,Monocyte,blood
+"CD4-positive, alpha-beta cytotoxic T cell",T cell,blood
+naive B cell,B cell,blood
+gamma-delta T cell,T cell,blood
+"naive thymus-derived CD4-positive, alpha-beta T cell",T cell,blood
+platelet,Mega-kayocyte,blood
+mucosal invariant T cell,T cell,blood
+lymphocyte,Lymphocyte,blood
+non-classical monocyte,Monocyte,blood
+memory B cell,B cell,blood
+regulatory T cell,T cell,blood
+transitional stage B cell,B cell,blood
+erythrocyte,Erythrocyte,blood
+"naive thymus-derived CD8-positive, alpha-beta T cell",T cell,blood
+"CD16-negative, CD56-bright natural killer cell, human",NK cell,blood
+plasmablast,B cell,blood
+neutrophil,Neutrophil,blood
+conventional dendritic cell,Dendritic cell,blood
+hematopoietic stem cell,Stem,blood
+"plasmacytoid dendritic cell, human",Dendritic cell,blood
+immature neutrophil,Neutrophil,blood
+B,B cell,blood
+Basophil,Basophil,blood
+CD14 Monocyte,Monocyte,blood
+CD16 Monocyte,Monocyte,blood
+CD4 Central Memory T,T cell,blood
+CD4 Cytotoxic T,T cell,blood
+CD4 Effector Memory T,T cell,blood
+CD4 Naive T,T cell,blood
+CD4 Proliferating T,T cell,blood
+CD4 T,T cell,blood
+CD8 Proliferating T,T cell,blood
+CD8 T,T cell,blood
+Dendritic,Dendritic cell,blood
+Double-negative T,T cell,blood
+Embryonic stem,Stem,blood
+Endothelial,Endothelial,blood
+Endothelial progenitor,Endothelial,blood
+Endothelial stem,Endothelial,blood
+Eosinophil,Eosinophil,blood
+Epithelial,Epithelial,blood
+Erythroblast,Erythrocyte,blood
+Granulocyte,Granulocyte,blood
+Erythroid,Erythrocyte,blood
+Erythroid precursor,Erythrocyte,blood
+Gamma delta T,T cell,blood
+Hematopoietic stem,Stem,blood
+Immature myeloid,Myeloid,blood
+Innate lymphoid,Lymphoid,blood
+Intermediate B,B cell,blood
+Leukocyte,Leukocyte,blood
+Lymphoid,Lymphoid,blood
+Megakaryocyte,Mega-kayocyte,blood
+Memory B,B cell,blood
+Mesenchymal stem,Stem,blood
+Monocyte,Monocyte,blood
+Mucosal-associated invariant T,T cell,blood
+Myeloid,Myeloid,blood
+Myeloid dendritic,Dendritic cell,blood
+Myeloid-derived suppressor,Myeloid,blood
+Naive B,B cell,blood
+Natural killer,NK cell,blood
+Neutrophil,Neutrophil,blood
+Plasma,B cell,blood
+Plasmablast,B cell,blood
+Plasmacytoid dendritic,Dendritic cell,blood
+Platelet,Mega-kayocyte,blood
+Regulatory T,T cell,blood
+Reticulocyte,Reticulocyte,blood
+T,T cell,blood
+Thymic emigrant,T cell,blood
+CD56-bright natural killer,NK cell,blood
+CD56-dim natural killer,NK cell,blood
+CD8 Central Memory T,T cell,blood
+CD8 Effector Memory T,T cell,blood
+CD8 Naive T,T cell,blood
+Endothelial,Endothelial,liver
+Cholangiocyte,Cholangiocyte,liver
+Kupffer,Kupffer,liver
+T/NK-cell,T/NK cell,liver
+Hepatocyte,Hepatocyte,liver
+B-cell,B cell,liver
+Erythroid,Erythrocyte,liver
+Stellate,Stellate,liver
+B,B cell,liver
+Cholangiocyte,Cholangiocyte,liver
+Dendritic,Dendritic cell,liver
+Endothelial,Endothelial,liver
+Epithelial,Epithelial,liver
+Hematopoietic,Stem,liver
+Hepatoblast,Hepatocyte,liver
+Hepatocyte,Hepatocyte,liver
+Kupffer,Kupffer,liver
+Liver bud hepatic,Liver bud hepatic,liver
+Mesenchymal,Mesenchymal,liver
+Mesenchymal stem,Mesenchymal,liver
+Monocyte,Monocyte,liver
+Myofibroblast,Myofibroblast,liver
+Natural killer,NK cell,liver
+Neutrophil,Neutrophil,liver
+Progenitor,Progenitor,liver
+Stellate,Stellate,liver
+Stem,Stem,liver
+T,T cell,liver
+acinar,Acinar,liver
+delta,Delta,liver
+beta,Beta,liver
+alpha,Alpha,liver
+activated_stellate,Stellate,liver
+ductal,Ductal,liver
+epsilon,Epsilon,liver
+gamma,Gamma,liver
+endothelial,Endothelial,liver
+quiescent_stellate,Stellate,liver
+macrophage,Macrophage,liver
+schwann,Schwann,liver
+mast,Mast,liver
+t_cell,T cell,liver
+Acinar,Acinar,liver
+Alpha,Alpha,liver
+B,B cell,liver
+Beta,Beta,liver
+Delta,Delta,liver
+Dendritic,Dendritic,liver
+Ductal,Ductal,liver
+Ductal stem,Ductal,liver
+Endocrine,Endocrine,liver
+Endothelial,Endothelial,liver
+Epithelial,Epithelial,liver
+Epsilon,Epsilon,liver
+Gamma,Gamma,liver
+Glial,Glial,liver
+Granulocyte,Granulocyte,liver
+Macrophage,Macrophage,liver
+Mast,Mast,liver
+Pancreatic progenitor,Pancreatic progenitor,liver
+Polypeptide,Polypeptide,liver
+Schwann,Schwann,liver
+Stellate,Stellate,liver
+T,T cell,liver
+monocyte,Monocyte,liver
+conventional dendritic cell,Dendritic cell,liver
+plasmacytoid dendritic cell,Dendritic cell,liver
+macrophage,Macrophage,liver
+plasma cell,B cell,liver
+T cell,T cell,liver
+B cell,B cell,liver
+natural killer cell,NK cell,liver
+cholangiocyte,Cholangiocyte,liver
+basophil,Basophil,liver
+neutrophil,Neutrophil,liver
+endothelial cell,Endothelial,liver
+hepatocyte,Hepatocyte,liver
+fibroblast,Myofibroblast,liver
+acinar,Acinar,pancreas
+delta,Delta,pancreas
+beta,Beta,pancreas
+alpha,Alpha,pancreas
+activated_stellate,Stellate,pancreas
+ductal,Ductal,pancreas
+epsilon,Epsilon,pancreas
+gamma,Gamma,pancreas
+endothelial,Endothelial,pancreas
+quiescent_stellate,Stellate,pancreas
+macrophage,Macrophage,pancreas
+schwann,Schwann,pancreas
+mast,Mast,pancreas
+t_cell,T cell,pancreas
+Acinar,Acinar,pancreas
+Alpha,Alpha,pancreas
+B,B cell,pancreas
+Beta,Beta,pancreas
+Delta,Delta,pancreas
+Dendritic,Dendritic,pancreas
+Ductal,Ductal,pancreas
+Ductal stem,Ductal,pancreas
+Endocrine,Endocrine,pancreas
+Endothelial,Endothelial,pancreas
+Epithelial,Epithelial,pancreas
+Epsilon,Epsilon,pancreas
+Gamma,Gamma,pancreas
+Glial,Glial,pancreas
+Granulocyte,Granulocyte,pancreas
+Macrophage,Macrophage,pancreas
+Mast,Mast,pancreas
+Pancreatic progenitor,Pancreatic progenitor,pancreas
+Polypeptide,Polypeptide,pancreas
+Schwann,Schwann,pancreas
+Stellate,Stellate,pancreas
+T,T cell,pancreas
+CD14 Mono,Monocyte,blood
+CD4 TCM,T cell,blood
+CD8 Naive,T cell,blood
+NK,NK cell,blood
+CD8 TEM,T cell,blood
+CD16 Mono,Monocyte,blood
+B intermediate,B cell,blood
+CD4 Naive,T cell,blood
+CD4 CTL,T cell,blood
+B naive,B cell,blood
+MAIT,T cell,blood
+gdT,T cell,blood
+CD8 TCM,T cell,blood
+dnT,T cell,blood
+B memory,B cell,blood
+Doublet,Doublet,blood
+pDC,Dendritic cell,blood
+CD8 Proliferating,T cell,blood
+Treg,T cell,blood
+Plasmablast,B cell,blood
+CD4 TEM,T cell,blood
+cDC2,Dendritic cell,blood
+NK Proliferating,NK cell,blood
+ASDC,Dendritic cell,blood
+HSPC,Stem,blood
+Platelet,Mega-kayocyte,blood
+NK_CD56bright,NK cell,blood
+cDC1,Dendritic cell,blood
+Eryth,Erythrocyte,blood
+CD4 Proliferating,T cell,blood
+ILC,Lymphoid,blood
