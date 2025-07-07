@@ -1,4 +1,4 @@
-# devil reproducibility repo
+# Reproducibility repository for devil 
 
 Repository containing the code to reproduce the scRNAseq differential expression analysis made using devil statistical tool
 
